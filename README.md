@@ -1,4 +1,16 @@
-# instaadownload
+# instaadownload - An automated instagram downloading bot running in-platform
+
+
+### What is "instaadownload"?:
+    "instaadownload" is a bot running on a separate instagram account which people can send posts to and afterwards
+    receive the posts as a downloadable version. The initial idea was to have an easy, in-platform way of
+    downloading videos. Later this was further developed to download stories, profile pictures and images as well.
+    Instaadownload started with a few subscribers and a small number of downloads a day. It quickly gained a lot of
+    attraction and grew to 20.000 followers with more than 30.000 downloads a day. After enjoying so much attention,
+    Instagram noticed it too and banned it as a result of violating the Tos. Further tries to build up news downloader
+    for the community also resulted in these accounts being banned.
+    We decided to make the code public so other people could make their own private or public downloader for their
+    community. 
 
 Requirements:
 - [Python 3](https://www.python.org/downloads/)
